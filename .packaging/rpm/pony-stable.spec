@@ -13,7 +13,7 @@ Summary:    Dependency manager for the pony programming language.
 # For a breakdown of the licensing, see PACKAGE-LICENSING
 License:    BSD
 URL:        https://github.com/ponylang/pony-stable
-Source0:    https://github.com/ponylang/pony-stable/archive/%{version}.tar.gz
+Source0:    https://github.com/dipinhora/pony-stable/archive/%{version}.tar.gz
 BuildRequires:  ponyc
 BuildRequires:  make
 
